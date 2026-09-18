@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TOPAZdub
 - 👀 I’m interested in ... FPV Drone Flying & Dubstep Music Production
-- 🌱 I’m currently learning ... FPV Drone Flying
-- 💞️ I’m looking to collaborate on ... Producing and creating dubstep tracks
 - 📫 How to reach me ... ynotzap@proton.me
 
 <!---
